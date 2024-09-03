@@ -7,6 +7,8 @@
 - :notes: Fun fact: I was a choir teacher in my first life
 - :mage_woman::elf_woman: Tolkien aficionado
 
+### [View My Portfolio](https://ams890.github.io/)
+
 ### Connect with Me
 [![LinkedIn Logo](https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg)](https://www.linkedin.com/in/amyejenkins/)
 [![STU Logo](https://assets.skool.com/f/2e1eab90e63f4feea70df5d4d6df71cc/e496aefca18546dd91434765e4143c727c445f8359b64d7c8668217cb0b62695)](https://www.skool.com/@amy-jenkins-6994?g=testers)
